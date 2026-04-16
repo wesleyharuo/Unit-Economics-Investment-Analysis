@@ -35,7 +35,7 @@ This project builds a unit-economics model for both bike types, then simulates t
 
 Bike Share Toronto grew to 7.8 million trips in 2025, a 10% increase over 2024, with e-bikes delivering double the trips-per-day of classic bikes. The 2030 target is 12–16 million rides per year. Reaching that target requires continued fleet expansion, but electrification comes with infrastructure dependencies: each e-bike needs access to a charging dock, and building charging stations is capital-intensive.
 
-The question a Data Analyst on the Lyft Urban Solutions team would face: *"We have $5M for the next tranche. Where does it go?"* The answer requires combining utilization data, revenue modelling, and infrastructure constraints into a unified scenario analysis.
+The question a Data Analyst on the .... Urban Solutions team would face: *"We have $5M for the next tranche. Where does it go?"* The answer requires combining utilization data, revenue modelling, and infrastructure constraints into a unified scenario analysis.
 
 ---
 
