@@ -1,14 +1,18 @@
-# Project 2 — E-bike vs Classic: Unit Economics & Investment Analysis
+# Unit Economics & Investment Analysis
 
-**Bike Share Toronto — Capital Allocation Case Study**
+**Capital Allocation Case Study**
 **Author:** Wesley Haruo Kurosawa
 **Stack:** Python (pandas, matplotlib), SQL (PostgreSQL syntax)
 
 ---
+<img width="1306" height="949" alt="chart_04_ebike_by_ward" src="https://github.com/user-attachments/assets/94bd764a-69b2-4850-9666-3ba00f5a222f" />
+<img width="1549" height="587" alt="chart_03_scenarios" src="https://github.com/user-attachments/assets/76a15577-a669-4d22-b7e0-be8c42936f84" />
+<img width="1189" height="588" alt="chart_02_unit_economics" src="https://github.com/user-attachments/assets/4d7cec77-9be6-4763-ad82-9843997230a8" />
+<img width="949" height="588" alt="chart_01_utilization" src="https://github.com/user-attachments/assets/f777bf80-c0b6-48b2-b99c-525eaedf2377" />
 
 ## Executive Summary
 
-Bike Share Toronto is preparing its 2026 expansion with a $10M+ budget. E-bikes deliver roughly **2x the trips-per-bike-per-day** of classic bikes and generate nearly **3x the revenue per bike**, but they cost 3x to acquire, 2.3x more to maintain, and require charging infrastructure. Deciding how to allocate the next $5M of capital is therefore not obvious — it depends on the ratio of revenue potential to infrastructure constraints.
+... is preparing its 2026 expansion with a $10M+ budget. E-bikes deliver roughly **2x the trips-per-bike-per-day** of classic bikes and generate nearly **3x the revenue per bike**, but they cost 3x to acquire, 2.3x more to maintain, and require charging infrastructure. Deciding how to allocate the next $5M of capital is therefore not obvious — it depends on the ratio of revenue potential to infrastructure constraints.
 
 This project builds a unit-economics model for both bike types, then simulates three capital-allocation scenarios to identify the option that maximises year-1 profit while managing downside risk.
 
