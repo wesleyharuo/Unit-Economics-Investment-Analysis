@@ -1,0 +1,3 @@
+bike_type,fleet_size,total_trips,trips_per_bike_per_day,utilization_ratio
+classic,936,286397,1.6812071475533015,1.0
+electric,264,148735,3.095550283050283,1.841266430228605

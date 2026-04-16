@@ -1,0 +1,3 @@
+bike_type,median_duration_min,p90_duration_min,mean_duration_min
+classic,13.0,27.0,15.2
+electric,18.0,34.0,20.0

@@ -1,0 +1,4 @@
+scenario,n_classic,n_ebikes,n_charging_docks,total_new_trips_year,year1_revenue,year1_cost,year1_profit,notes,roi_pct_year1,payback_years
+A: 100% Classic bikes,4166,0,0,2556426,4601568,2166320,2435248,Minimizes unit cost risk. Adds capacity where charging is not a limit.,112.4,2.05
+B: 100% E-bikes + charging,0,753,251,850796,2977788,1275080,1702708,Maximizes trips and revenue but requires matched charging infrastructure rollout.,133.5,2.93
+C: Hybrid 60/40 (e-bike / classic),1666,450,150,1530769,3619740,1628320,1991420,Balances revenue and infrastructure risk; backwards-compatible with non-charging stations.,122.3,2.5
