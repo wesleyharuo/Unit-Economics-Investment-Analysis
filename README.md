@@ -12,10 +12,6 @@
 
 ## Executive Summary
 
-... is preparing its 2026 expansion with a $10M+ budget. E-bikes deliver roughly **2x the trips-per-bike-per-day** of classic bikes and generate nearly **3x the revenue per bike**, but they cost 3x to acquire, 2.3x more to maintain, and require charging infrastructure. Deciding how to allocate the next $5M of capital is therefore not obvious — it depends on the ratio of revenue potential to infrastructure constraints.
-
-This project builds a unit-economics model for both bike types, then simulates three capital-allocation scenarios to identify the option that maximises year-1 profit while managing downside risk.
-
 **Key findings:**
 
 | Metric | Classic | E-bike | Ratio |
@@ -32,10 +28,6 @@ This project builds a unit-economics model for both bike types, then simulates t
 ---
 
 ## Business Context
-
-Bike Share Toronto grew to 7.8 million trips in 2025, a 10% increase over 2024, with e-bikes delivering double the trips-per-day of classic bikes. The 2030 target is 12–16 million rides per year. Reaching that target requires continued fleet expansion, but electrification comes with infrastructure dependencies: each e-bike needs access to a charging dock, and building charging stations is capital-intensive.
-
-The question a Data Analyst on the .... Urban Solutions team would face: *"We have $5M for the next tranche. Where does it go?"* The answer requires combining utilization data, revenue modelling, and infrastructure constraints into a unified scenario analysis.
 
 ---
 
