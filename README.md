@@ -2,8 +2,9 @@
 
 **Capital Allocation Case Study**
 **Author:** Wesley Haruo Kurosawa ## 
-⚠️ Project Disclaimer:
-This project was developed as part of my continuous learning journey in data analytics. Its primary objective is to demonstrate practical application of analytical thinking, data processing, and problem-solving skills.
+
+**⚠️ Project Disclaimer:
+This project was developed as part of my continuous learning journey in data analytics. Its primary objective is to demonstrate practical application of analytical thinking, data processing, and problem-solving skills.**
 
 While the project is based on a simulated or non-production scenario, the methodologies, tools, and approaches used reflect real-world data analysis practices.
 **Stack:** Python (pandas, matplotlib), SQL (PostgreSQL syntax)
